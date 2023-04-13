@@ -1,0 +1,6 @@
+Bob,baker,hot
+Jim,jailer,jolly
+Pat,painter,strong
+Ulamog,eater,gaint
+Jace,scholar,smart
+Nix,diver,fast
