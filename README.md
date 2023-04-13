@@ -1,2 +1,2 @@
 # 106-Group6
-Repository for groupwork
+Copy of the game I helped develop.
